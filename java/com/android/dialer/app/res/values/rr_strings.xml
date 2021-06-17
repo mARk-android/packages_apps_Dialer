@@ -18,19 +18,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="other_settings_label">Other settings</string>
 
-    <!-- InCall vibration settings -->
-    <string name="incall_vibration_category_key" translatable="false">dialer_general_incall_vibration_category_key</string>
-    <string name="incall_vibration_category_title">In-call vibration</string>
-    <string name="incall_vibrate_outgoing_key" translatable="false">incall_vibrate_outgoing</string>
-    <string name="incall_vibrate_outgoing_title">Vibrate on answer</string>
-    <string name="incall_vibrate_call_waiting_key" translatable="false">incall_vibrate_call_waiting</string>
-    <string name="incall_vibrate_call_waiting_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_hangup_key" translatable="false">incall_vibrate_hangup</string>
-    <string name="incall_vibrate_hangup_title">Vibrate on hang up</string>
-    <string name="incall_vibrate_45_key" translatable="false">incall_vibrate_45secs</string>
-    <string name="incall_vibrate_45_title">Vibrate every minute</string>
-    <string name="incall_vibrate_45_summary">Vibrates at the 45 second mark of every minute during outgoing calls</string>
-
     <!-- Smart Options -->
     <string name="smart_category_title">Other options</string>
     <string name="smart_mute_title">Smart mute</string>
